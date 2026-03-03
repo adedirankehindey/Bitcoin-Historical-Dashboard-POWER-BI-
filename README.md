@@ -7,7 +7,7 @@
 
 This project analyzes historical Bitcoin trading data from **January 2012 to March 2021** using minute-level market data from Bitstamp.  
 
-The objective was to transform raw, high-frequency cryptocurrency trading records into an executive-level analytical dashboard using Power BI.
+The objective is to transform raw, high-frequency cryptocurrency trading records into an executive-level analytical dashboard using Power BI.
 
 The final output delivers aggregated insights on:
 
@@ -18,7 +18,7 @@ The final output delivers aggregated insights on:
 
 ## 🎯 Business Problem
 
-Cryptocurrency datasets contain millions of minute-level records. Extracting strategic insight requires structured aggregation and financial modeling.
+The Cryptocurrency datasets contain millions of minute-level records. Extracting strategic insight requires structured aggregation and financial modeling.
 
 ### Core Challenge
 
@@ -34,7 +34,6 @@ How do you convert high-frequency Bitcoin trading data into meaningful year-over
 ## 📂 Dataset Information
 
 - **Source:** Bitstamp USD Historical Data  
-- **Granularity:** 1-minute trading data  
 - **Timeframe:** 2012-01-01 to 2021-03-31  
 
 ### Columns Included
@@ -52,18 +51,18 @@ How do you convert high-frequency Bitcoin trading data into meaningful year-over
 
 ### 1️⃣ Cleaning
 
-- Converted Unix timestamp to DateTime  
-- Removed null values  
-- Validated numerical fields  
+- I converted Unix timestamp to DateTime  
+- I removed null values  
+- I validated numerical fields  
 
 ### 2️⃣ Feature Engineering
 
-- Extracted Year and Month  
-- Created aggregated financial KPIs using DAX  
+- I extracted Year and Month  
+- I created aggregated financial KPIs using DAX  
 
 ### 3️⃣ Aggregation
 
-- Reduced minute-level data to yearly summaries  
+- I reduced minute-level data to yearly summaries  
 - Structured time-series model  
 
 ## 🧮 Data Model
@@ -117,19 +116,19 @@ Single fact table with derived time attributes.
 ## 🧠 Analytical Approach
 
 ### Data Cleaning  
-Validated raw dataset and ensured structural consistency.
+I validated raw dataset and ensured structural consistency.
 
 ### Feature Engineering  
-Built time attributes and financial KPIs.
+I built time attributes and financial KPIs.
 
 ### Aggregation  
-Converted minute-level data into yearly analytical summaries.
+I converted minute-level data into yearly analytical summaries.
 
 ### Visualization  
-Designed executive-ready KPI dashboard with comparative analysis.
+I designed executive-ready KPI dashboard with comparative analysis.
 
 ### Validation  
-Cross-checked totals against the raw dataset.
+I cross-checked totals against the raw dataset.
 
 
 ## 💼 Business Value
