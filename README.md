@@ -1,8 +1,7 @@
-# Bitcoin-Historical-Market-AnalysisDashboard-POWER-BI-
+# Bitcoin-Historical-Market-AnalysisDashboard-POWER-BI
+**(Power BI | Time Series Analysis | Financial Data Modeling)**
 
 ![ADEDIRANbitcoinHistoricalPOWERBIdashboard](https://github.com/user-attachments/assets/20a4bcb6-affa-4aec-b6ec-0273419d6cf3)
-
-Power BI | Time Series Analysis | Financial Data Modeling
 
 **Project Overview**
 This project analyzes historical Bitcoin trading data from January 2012 to March 2021 using minute-level market data from Bitstamp. The objective was to transform raw, high-frequency cryptocurrency trading records into an executive-level analytical dashboard using Power BI.
