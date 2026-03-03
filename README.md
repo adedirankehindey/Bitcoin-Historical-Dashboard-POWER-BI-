@@ -73,20 +73,20 @@ KPI Cards:
 •	CSV data source
 
 **Analytical Approach**
-1.	Data Cleaning
+**1.	Data Cleaning**
 o	Removed null values
 o	Validated numerical fields
 o	Converted timestamps
-2.	Feature Engineering
+**2.	Feature Engineering**
 o	Created Year and Month columns
 o	Built aggregated financial measures
-3.	Aggregation
+**3.	Aggregation**
 o	Reduced minute-level data to yearly metrics
 o	Structured time-series model
-4.	Visualization
+**4.	Visualization**
 o	Designed executive-ready KPI dashboard
 o	Built comparative yearly visualizations
-5.	Validation
+**5.	Validation**
 o	Cross-checked totals against raw dataset
 
 **Business Value**
@@ -96,7 +96,7 @@ This project demonstrates how raw financial transaction data can be converted in
 •	Volatility assessment
 •	Strategic forecasting
 
-It highlights the importance of:
+**It highlights the importance of:**
 •	Time-based aggregation
 •	Volume-price relationship analysis
 •	Executive-focused visualization
