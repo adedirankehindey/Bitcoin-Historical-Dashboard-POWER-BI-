@@ -186,11 +186,3 @@ It highlights the importance of:
 2. Connect to the CSV dataset  
 3. Refresh the model  
 4. Interact with the dashboard using the Month slicer  
-
----
-
-## 📌 Author
-
-Ajibola Odutola  
-Marketing Data Analyst | Business Intelligence Specialist
-"""
