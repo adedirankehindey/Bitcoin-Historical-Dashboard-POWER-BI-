@@ -3,12 +3,6 @@
 
 ![ADEDIRANbitcoinHistoricalPOWERBIdashboard](https://github.com/user-attachments/assets/20a4bcb6-affa-4aec-b6ec-0273419d6cf3)
 
-# 📊 Bitcoin Historical Market Analysis Dashboard  
-
-**Power BI | Time Series Analysis | Financial Data Modeling**  
-
----
-
 ## 🚀 Project Overview
 
 This project analyzes historical Bitcoin trading data from **January 2012 to March 2021** using minute-level market data from Bitstamp.  
@@ -21,8 +15,6 @@ The final output delivers aggregated insights on:
 - Trading volume growth  
 - Volatility patterns  
 - Long-term market cycles  
-
----
 
 ## 🎯 Business Problem
 
@@ -38,8 +30,6 @@ How do you convert high-frequency Bitcoin trading data into meaningful year-over
 - Which years show significant growth cycles?  
 - How do trading volumes relate to price movement?  
 - What volatility patterns exist between Open and Close prices?  
-
----
 
 ## 📂 Dataset Information
 
@@ -57,8 +47,6 @@ How do you convert high-frequency Bitcoin trading data into meaningful year-over
 - Volume BTC  
 - Volume USD  
 - Weighted Price  
-
----
 
 ## 🛠 Data Processing
 
@@ -78,8 +66,6 @@ How do you convert high-frequency Bitcoin trading data into meaningful year-over
 - Reduced minute-level data to yearly summaries  
 - Structured time-series model  
 
----
-
 ## 🧮 Data Model
 
 Single fact table with derived time attributes.
@@ -91,8 +77,6 @@ Single fact table with derived time attributes.
 - Average Weighted Price  
 - Sum of High and Low  
 - Yearly Open vs Close comparison  
-
----
 
 ## 📊 Dashboard Features
 
@@ -112,8 +96,6 @@ Single fact table with derived time attributes.
 - Open vs Close Comparison Bar Chart  
 - Month Filter Slicer  
 
----
-
 ## 📈 Key Insights
 
 - Significant volume growth occurred after 2016  
@@ -122,7 +104,6 @@ Single fact table with derived time attributes.
 - Weighted price concentration increases sharply in later years  
 - Volatility widens during rapid growth periods  
 
----
 
 ## 🧰 Tools Used
 
@@ -132,7 +113,6 @@ Single fact table with derived time attributes.
 - Excel  
 - CSV Data Source  
 
----
 
 ## 🧠 Analytical Approach
 
@@ -151,7 +131,6 @@ Designed executive-ready KPI dashboard with comparative analysis.
 ### Validation  
 Cross-checked totals against the raw dataset.
 
----
 
 ## 💼 Business Value
 
@@ -168,8 +147,6 @@ It highlights the importance of:
 - Volume-price relationship analysis  
 - Executive-focused visualization  
 
----
-
 ## 🔮 Future Improvements
 
 - Add Year-over-Year growth percentages  
@@ -178,7 +155,6 @@ It highlights the importance of:
 - Build predictive forecasting model  
 - Introduce correlation matrix  
 
----
 
 ## ▶️ How to Use
 
